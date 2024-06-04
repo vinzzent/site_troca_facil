@@ -1,0 +1,113 @@
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif;
+  color: #3D405B;
+}
+
+#logo_path_00, #logo_path_01{
+  fill: #EABE6C;
+}
+
+#logo_txt_01{
+  fill: #891652;
+}
+
+.footer a {
+  color: #3D405B;
+  font-size: 20px;
+  padding: 30px;
+}
+
+.footer a:hover{
+  color: #891652;
+}
+
+.nav-link{
+  color: #3D405B;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
+}
+
+#search-button:active{
+  border: none;
+}
+
+#search-button:hover{
+  color: #EABE6C;
+}
+
+#search-input{
+  background-color: #F4F1DE;
+}
+
+#search-container{
+  max-width: 560px;  
+  border: 1px;  
+  border-style: solid;
+  border-color:#3D405B; 
+}
+
+#search-container:hover{
+  border: 2px;
+  border-style: solid;
+  border-color:#891652;
+}
+
+#user-toggler-button{
+  color: #891652;
+  border: 2px;
+  border-style: solid;
+  border-color: #EABE6C;
+}
+
+#user-toggler-button:focus{
+  box-shadow: none;
+}
+
+#container-fluid-whole-navbar{
+  background-color: #F4F1DE;
+}
+
+#container-fluid-topics-navbar{
+  background-color: #EABE6C;
+}
+
+#signup_form{
+  width: 560px;
+}
+
+input.form-control:hover{
+  border: 2px;
+  border-style: solid;
+  border-color:#891652;
+}
+
+a.purple-link{
+  color: #891652;
+}
+
+a.purple-link:hover{
+  color: #EABE6C;
+}
+
+.card:hover{
+  background-color: #F4F1DE;
+  border: 2px;
+  border-style: solid;
+  border-color:#891652;
+}
+
+.list-group-item {
+  background-color: transparent;
+}
+
+.text-content {
+  min-height: 450px;
+}
+
+.barter-video{
+  height: 320px;
+  width: 100%;
+}
